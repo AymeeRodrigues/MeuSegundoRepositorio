@@ -1,7 +1,12 @@
 programa
 {
 funcao inicio (){
-       
-       escreva("Bob")
+    
 }
+funcao bob{
+    escreva("bob")
+    }
+ funcao alice{
+    escreva("alice")
+    }
 }
